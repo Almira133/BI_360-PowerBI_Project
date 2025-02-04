@@ -50,6 +50,7 @@ Live Dashboard - https://app.powerbi.com/view?r=eyJrIjoiZjdmMDk2YjQtM2I3ZS00OGQ5
 ✅Seamlessly Publishing and Sharing Reports with Stakeholders
 
 
+
 💼 Distinct Dashboards:
 
 ♾️Finance View: Dive into P&L statements, identify top/bottom products/customers, track Net Sales performance, and analyze key KPIs.
