@@ -1,13 +1,12 @@
 # BI_360-PowerBI_Project
 
 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐭𝐚𝐭𝐦𝐞𝐧𝐭:
-
 AtliQ Hardware, a rapidly expanding global consumer electronics company, has been grappling with unwieldy Excel files for data analytics. This outdated approach has been hindering effective decision-making and causing significant losses. In response, they urgently sought agile, data-driven decision-making.
 
 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞:
-
 Develop an interactive report offering invaluable insights across finance, sales, marketing, supply chain, and executive teams, using provided mockup dashboards as a reference.
 
+Live Dashboard - https://app.powerbi.com/view?r=eyJrIjoiZjdmMDk2YjQtM2I3ZS00OGQ5LWE3YjAtMDFkYmE0MzU2M2E5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 𝐀𝐩𝐩𝐫𝐨𝐚𝐜𝐡:
 
@@ -62,5 +61,3 @@ Develop an interactive report offering invaluable insights across finance, sales
 ♾️Supply Chain: Explore customer and product metrics, uncover trends for actionable insights.
 
 ♾️Executive View: Analyze subzones, track market share trends, and identify top customers/products by revenue.
-
-Live Dashboard - https://app.powerbi.com/view?r=eyJrIjoiZjdmMDk2YjQtM2I3ZS00OGQ5LWE3YjAtMDFkYmE0MzU2M2E5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
